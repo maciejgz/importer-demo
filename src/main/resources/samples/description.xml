@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<Company>
+    <Employee>
+        <FirstName>Tanmay</FirstName>
+        <LastName>Patil</LastName>
+        <ContactNo>1234567890</ContactNo>
+        <Email>tanmaypatil@xyz.com</Email>
+        <Address>
+            <City>Bangalore</City>
+            <State>Karnataka</State>
+            <Zip>560212</Zip>
+        </Address>
+        <Address2>
+            <City2>Bangalore</City2>
+            <State2>Karnataka</State2>
+            <Zip2>560212</Zip2>
+        </Address2>
+    </Employee>
+</Company>
